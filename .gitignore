@@ -1,0 +1,4 @@
+.arduinoOutput/
+.vscode/
+eeprom.hex
+.clang-format
